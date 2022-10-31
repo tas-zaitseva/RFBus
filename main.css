@@ -1,0 +1,123 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+@media screen and (max-width: 480px) and (orientation: portrait) {
+  html {
+    font-size: 3.333vmin;
+  }
+}
+@media screen and (max-height: 540px) and (orientation: landscape) {
+  html {
+    font-size: 3.333vmin;
+  }
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  width: 95%;
+  max-width: 1140px;
+}
+
+section {
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section__title {
+  font-size: 2.25rem;
+  margin-bottom: 1.25rem;
+}
+
+:root {
+  --grid-cols: 1;
+  --grid-rows: 1;
+}
+
+.table {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: ;
+  grid-template-columns: repeat(var(--grid-cols), 1fr);
+  -ms-grid-rows: ;
+  grid-template-rows: repeat(var(--grid-rows), 1fr);
+  -ms-grid-columns: repeat(var(--grid-cols), 1fr);
+  -ms-grid-rows: repeat(var(--grid-rows), 1fr);
+  grid-gap: 0;
+  min-width: 620px;
+}
+
+.table__item {
+  width: 100%;
+  height: 3.125rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0.625rem 0.3125rem;
+  position: relative;
+}
+
+.hidden {
+  white-space: nowrap;
+  position: absolute;
+  left: 0.25rem;
+  bottom: 0.25rem;
+  margin-right: 0.625rem;
+}
+
+.table__input {
+  width: 100%;
+  border: none;
+  text-align: center;
+  overflow: hidden;
+  font-size: 1rem;
+}
+
+.table__input:focus {
+  outline: none;
+}
+
+.prices__table {
+  margin-bottom: 1.25rem;
+}
+
+.button {
+  background-color: rgb(255, 225, 52);
+  color: rgb(218, 15, 15);
+  font-size: 1.125rem;
+  padding: 0.625rem 0.9375rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 0.625rem;
+  -webkit-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: rgb(250, 209, 29);
+}

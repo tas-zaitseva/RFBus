@@ -1,0 +1,15 @@
+@function rem($px) {
+  @return $px / $baseFontSize + 0rem;
+}
+
+@mixin phonesPortrait {
+  @media screen and (max-width: 480px) and (orientation: portrait){
+    @content;
+  }
+}
+
+@mixin phonesLandscape {
+  @media screen and (max-height: 540px) and (orientation: landscape){
+    @content;
+  }
+}

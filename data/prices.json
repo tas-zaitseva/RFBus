@@ -1,0 +1,730 @@
+[
+    {
+        "id_station1": "50625",
+        "id_station2": "30081",
+        "price": 20,
+        "kid_price": 10,
+        "bag_price": 3,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "50346",
+        "price": 30,
+        "kid_price": 15,
+        "bag_price": 5,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "50347",
+        "price": 60,
+        "kid_price": 30,
+        "bag_price": 9,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "60696",
+        "price": 115,
+        "kid_price": 58,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "50348",
+        "price": 130,
+        "kid_price": 65,
+        "bag_price": 20,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "50349",
+        "price": 170,
+        "kid_price": 85,
+        "bag_price": 26,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "50620",
+        "price": 245,
+        "kid_price": 123,
+        "bag_price": 37,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "50354",
+        "price": 305,
+        "kid_price": 153,
+        "bag_price": 46,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "50313",
+        "price": 400,
+        "kid_price": 200,
+        "bag_price": 60,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "40240",
+        "price": 455,
+        "kid_price": 228,
+        "bag_price": 68,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "40241",
+        "price": 550,
+        "kid_price": 275,
+        "bag_price": 83,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50625",
+        "id_station2": "40101",
+        "price": 635,
+        "kid_price": 318,
+        "bag_price": 95,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "50346",
+        "price": 15,
+        "kid_price": 8,
+        "bag_price": 2,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "50347",
+        "price": 55,
+        "kid_price": 28,
+        "bag_price": 8,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "60696",
+        "price": 90,
+        "kid_price": 45,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "50348",
+        "price": 105,
+        "kid_price": 53,
+        "bag_price": 16,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "50349",
+        "price": 150,
+        "kid_price": 75,
+        "bag_price": 23,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "50620",
+        "price": 225,
+        "kid_price": 113,
+        "bag_price": 34,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "50354",
+        "price": 285,
+        "kid_price": 143,
+        "bag_price": 43,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "50313",
+        "price": 380,
+        "kid_price": 190,
+        "bag_price": 57,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "40240",
+        "price": 435,
+        "kid_price": 218,
+        "bag_price": 65,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "40241",
+        "price": 535,
+        "kid_price": 268,
+        "bag_price": 80,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "30081",
+        "id_station2": "40101",
+        "price": 615,
+        "kid_price": 308,
+        "bag_price": 92,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "50347",
+        "price": 45,
+        "kid_price": 23,
+        "bag_price": 7,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "60696",
+        "price": 80,
+        "kid_price": 40,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "50348",
+        "price": 95,
+        "kid_price": 48,
+        "bag_price": 14,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "50349",
+        "price": 135,
+        "kid_price": 68,
+        "bag_price": 20,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "50620",
+        "price": 210,
+        "kid_price": 105,
+        "bag_price": 32,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "50354",
+        "price": 270,
+        "kid_price": 135,
+        "bag_price": 41,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "50313",
+        "price": 360,
+        "kid_price": 180,
+        "bag_price": 54,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "40240",
+        "price": 425,
+        "kid_price": 213,
+        "bag_price": 64,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "40241",
+        "price": 520,
+        "kid_price": 260,
+        "bag_price": 78,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50346",
+        "id_station2": "40101",
+        "price": 600,
+        "kid_price": 300,
+        "bag_price": 90,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "60696",
+        "price": 40,
+        "kid_price": 20,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "50348",
+        "price": 55,
+        "kid_price": 28,
+        "bag_price": 8,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "50349",
+        "price": 95,
+        "kid_price": 48,
+        "bag_price": 14,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "50620",
+        "price": 170,
+        "kid_price": 85,
+        "bag_price": 26,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "50354",
+        "price": 230,
+        "kid_price": 115,
+        "bag_price": 35,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "50313",
+        "price": 330,
+        "kid_price": 165,
+        "bag_price": 50,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "40240",
+        "price": 385,
+        "kid_price": 193,
+        "bag_price": 58,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "40241",
+        "price": 480,
+        "kid_price": 240,
+        "bag_price": 72,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50347",
+        "id_station2": "40101",
+        "price": 565,
+        "kid_price": 283,
+        "bag_price": 85,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "50348",
+        "price": 40,
+        "kid_price": 20,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "50349",
+        "price": 80,
+        "kid_price": 40,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "50620",
+        "price": 155,
+        "kid_price": 78,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "50354",
+        "price": 215,
+        "kid_price": 108,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "50313",
+        "price": 315,
+        "kid_price": 158,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "40240",
+        "price": 370,
+        "kid_price": 185,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "40241",
+        "price": 465,
+        "kid_price": 233,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "60696",
+        "id_station2": "40101",
+        "price": 550,
+        "kid_price": 275,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50348",
+        "id_station2": "50349",
+        "price": 45,
+        "kid_price": 23,
+        "bag_price": 7,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50348",
+        "id_station2": "50620",
+        "price": 120,
+        "kid_price": 60,
+        "bag_price": 18,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50348",
+        "id_station2": "50354",
+        "price": 175,
+        "kid_price": 88,
+        "bag_price": 26,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50348",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50348",
+        "id_station2": "50313",
+        "price": 290,
+        "kid_price": 145,
+        "bag_price": 44,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50348",
+        "id_station2": "40240",
+        "price": 335,
+        "kid_price": 168,
+        "bag_price": 50,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50348",
+        "id_station2": "40241",
+        "price": 430,
+        "kid_price": 215,
+        "bag_price": 65,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50348",
+        "id_station2": "40101",
+        "price": 515,
+        "kid_price": 258,
+        "bag_price": 77,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50349",
+        "id_station2": "50620",
+        "price": 75,
+        "kid_price": 38,
+        "bag_price": 11,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50349",
+        "id_station2": "50354",
+        "price": 135,
+        "kid_price": 68,
+        "bag_price": 20,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50349",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50349",
+        "id_station2": "50313",
+        "price": 250,
+        "kid_price": 125,
+        "bag_price": 38,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50349",
+        "id_station2": "40240",
+        "price": 310,
+        "kid_price": 155,
+        "bag_price": 47,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50349",
+        "id_station2": "40241",
+        "price": 390,
+        "kid_price": 195,
+        "bag_price": 59,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50349",
+        "id_station2": "40101",
+        "price": 470,
+        "kid_price": 235,
+        "bag_price": 71,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50620",
+        "id_station2": "50354",
+        "price": 60,
+        "kid_price": 30,
+        "bag_price": 9,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50620",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50620",
+        "id_station2": "50313",
+        "price": 170,
+        "kid_price": 85,
+        "bag_price": 26,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50620",
+        "id_station2": "40240",
+        "price": 235,
+        "kid_price": 118,
+        "bag_price": 35,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50620",
+        "id_station2": "40241",
+        "price": 320,
+        "kid_price": 160,
+        "bag_price": 48,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50620",
+        "id_station2": "40101",
+        "price": 400,
+        "kid_price": 200,
+        "bag_price": 60,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50354",
+        "id_station2": "50351",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50354",
+        "id_station2": "50313",
+        "price": 110,
+        "kid_price": 55,
+        "bag_price": 17,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50354",
+        "id_station2": "40240",
+        "price": 175,
+        "kid_price": 88,
+        "bag_price": 26,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50354",
+        "id_station2": "40241",
+        "price": 275,
+        "kid_price": 138,
+        "bag_price": 41,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50354",
+        "id_station2": "40101",
+        "price": 345,
+        "kid_price": 173,
+        "bag_price": 52,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50351",
+        "id_station2": "50313",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50351",
+        "id_station2": "40240",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50351",
+        "id_station2": "40241",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50351",
+        "id_station2": "40101",
+        "price": -1,
+        "kid_price": -1,
+        "bag_price": -1,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50313",
+        "id_station2": "40240",
+        "price": 60,
+        "kid_price": 30,
+        "bag_price": 9,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50313",
+        "id_station2": "40241",
+        "price": 165,
+        "kid_price": 83,
+        "bag_price": 25,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "50313",
+        "id_station2": "40101",
+        "price": 250,
+        "kid_price": 125,
+        "bag_price": 38,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "40240",
+        "id_station2": "40241",
+        "price": 100,
+        "kid_price": 50,
+        "bag_price": 15,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "40240",
+        "id_station2": "40101",
+        "price": 185,
+        "kid_price": 93,
+        "bag_price": 28,
+        "id_price_type": "0"
+    },
+    {
+        "id_station1": "40241",
+        "id_station2": "40101",
+        "price": 85,
+        "kid_price": 43,
+        "bag_price": 13,
+        "id_price_type": "0"
+    }
+]
