@@ -56,9 +56,7 @@ section {
 .table {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: ;
   grid-template-columns: repeat(var(--grid-cols), 1fr);
-  -ms-grid-rows: ;
   grid-template-rows: repeat(var(--grid-rows), 1fr);
   -ms-grid-columns: repeat(var(--grid-cols), 1fr);
   -ms-grid-rows: repeat(var(--grid-rows), 1fr);
